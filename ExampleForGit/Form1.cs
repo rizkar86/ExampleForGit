@@ -24,7 +24,9 @@ namespace ExampleForGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "hallo rizkar";
+            label1.Text = "hallo ahmad " +
+                "jjjkjnknknkj" +
+                ",kn,kn,";
         }
     }
 }
