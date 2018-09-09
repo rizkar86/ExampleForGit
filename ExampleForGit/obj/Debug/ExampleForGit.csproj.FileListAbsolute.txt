@@ -1,0 +1,10 @@
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\bin\Debug\ExampleForGit.exe.config
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\bin\Debug\ExampleForGit.exe
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\bin\Debug\ExampleForGit.pdb
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\obj\Debug\ExampleForGit.csprojAssemblyReference.cache
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\obj\Debug\ExampleForGit.Form1.resources
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\obj\Debug\ExampleForGit.Properties.Resources.resources
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\obj\Debug\ExampleForGit.csproj.GenerateResource.cache
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\obj\Debug\ExampleForGit.csproj.CoreCompileInputs.cache
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\obj\Debug\ExampleForGit.exe
+C:\Users\engri\source\repos\ExampleForGit\ExampleForGit\obj\Debug\ExampleForGit.pdb
